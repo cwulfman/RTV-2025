@@ -1,0 +1,67 @@
+field_name	labels	type	description
+ProcessReadMeLink	Read More / Help link	text	Link or call-to-action text that points users to additional information or help about the registration process.
+FormVersionTitle	Form title (e.g., VOTER REGISTRATION)	text	Main title displayed at the top of the page identifying the voter registration form.
+FormVersionSubtitle	Form subtitle (e.g., powered by Rock the Vote)	text	Subtitle or tagline shown under the main title, often indicating the organization or version.
+ProcessNVRADisclaimer	NVRA disclaimer text	text	Legal disclaimer text required by the National Voter Registration Act explaining proof requirements and legal context.
+ProcessInstruction1MultiLine	Introductory instruction text	multiline text	Multi-line introductory instructions explaining that the user is not registered until they sign, stamp, and mail the form, or similar guidance.
+TitleBoxInstruction	INSTRUCTIONS / INSTRUCCIONES header	text	Section header label for the instructions box (e.g., INSTRUCTIONS, INSTRUCCIONES).
+ProcedureBox	Step-by-step instructions overview	multiline text	Paragraph or list introducing the numbered procedure steps for completing the voter registration process.
+MailerHowTo	How to mail the form	multiline text	Text describing how to fold, stamp, and mail the completed voter registration form.
+ProcedureStep1	Step 1 instruction text	multiline text	Detailed text for procedure step 1 (e.g., sign the form and ensure signature requirements are met).
+ProcedureStep2	Step 2 instruction text	multiline text	Detailed text for procedure step 2, usually about completing or reviewing the registration application.
+ProcedureStep3	Step 3 instruction text	multiline text	Detailed text for procedure step 3, typically covering folding, sealing, or preparing the form for mailing.
+ProcedureStep4	Step 4 instruction text	multiline text	Detailed text for procedure step 4, such as applying postage or confirming mailing details.
+ProcedureStep5	Step 5 instruction text	multiline text	Detailed text for procedure step 5, often reminding users to check deadlines or follow up with their election office.
+ProcessMailTitle	Mail your form header	text	Header text for the section explaining how and where to mail the completed voter registration form.
+ProcedureIDRequired	ID required information	multiline text	Detailed explanation of acceptable identification for registration or first-time voters, including examples (photo ID, utility bill, etc.).
+ProcessDeadlineTitle	Registration deadline header	text	Header label for the section describing registration deadlines.
+ProcessDeadline	Registration deadline details	multiline text	Text describing voter registration deadlines for the user’s state (e.g., number of days before election, postmark rules).
+ProcessFirstTimeVoterTitle	First-time voter header	text	Header label for the section addressing first-time voters.
+ProcedureFirstTimeVoter	First-time voter instructions	multiline text	Instructions for first-time voters, including additional requirements for those who registered by mail.
+ProcessStateRequirement	State-specific requirements text	multiline text	Text summarizing that states may have additional requirements and pointing users to state-specific information.
+ProcessMailAddress1	Mailing address line 1	text	First line of the destination mailing address for where the registration form should be sent (e.g., office name).
+ProcessMailAddress2	Mailing address line 2	text	Second line of the destination mailing address (e.g., street address or PO Box).
+ProcessMailAddress3	Mailing address line 3	text	Third line of the destination mailing address (e.g., city, state, ZIP).
+ProcessReadMeTitle	Read Me / Important Information header	text	Header text for the "Read Me" or important information section.
+ProcessReadMeText	Read Me explanatory text	multiline text	Body text providing additional notes, disclaimers, or help information related to the registration process.
+apt_lot_number	Apt or Lot #	text	Apartment/lot
+assistant	If unable to sign, who helped?	text	Helper name/address/phone
+choice_of_party	Choice of Party	text	Party selection
+citizen	Are you a citizen? Yes/No	checkbox group	Export values: Yes, No
+city	City/Town	text	City/town
+dob_day	DOB Day	text	Day of birth
+dob_month	DOB Month	text	Month of birth
+dob_year	DOB Year	text	Year of birth
+eighteen_years	Will you be 18 by election day? Yes/No	checkbox group	Export values: Yes, No
+first_name	First Name	text	Applicant first name
+first_name_2	Previous First Name	text	Previous first name
+home_address	Home Address	text	Street/route
+id_number	ID Number	text	State ID / DL / SSN4
+last_name	Last Name	text	Applicant last name
+last_name_2	Previous Last Name	text	Previous last name
+mail_address	Mail Address	text	Mailing street
+mail_city	Mail City	text	Mailing city
+mail_state	Mail State	text	Mailing state
+mail_zip_code	Mail ZIP	text	Mailing ZIP
+middle_names	Middle Name(s)	text	Applicant middle names
+middle_names_2	Previous Middle Name(s)	text	Previous middle names
+prev_address	Previous Address	text	Prev street/route
+prev_apt_lot_number	Prev Apt/Lot #	text	Prev apt/lot
+prev_city	Prev City/Town/County	text	Prev city/town
+prev_state	Prev State	text	Prev state
+prev_zip_code	Prev ZIP Code	text	Prev ZIP
+race_ethnic_group	Race/Ethnic Group	text	Race/ethnicity
+salutation	Mr, Mrs, Miss, Ms	checkbox group	Export: Mr, Mrs, Miss, Ms
+salutation_2	Mr, Mrs, Miss, Ms (previous name)	checkbox group	Export: Mr_2, Mrs_2, Miss_2, Ms_2
+signature	Please sign full name (or put mark)	text	Signature text
+signature_date	Date	text	Signature date
+state	State	text	State abbreviation
+suffix	Jr, Sr, II, III, IV	checkbox group	Export: Jr, Sr, Second, Third, Fourth
+suffix_2	Jr, Sr, II, III, IV (previous name)	checkbox group	Export: Jr_2, Sr_2, Second, Third, Fourth
+telephone_number	Telephone Number	text	Phone number
+zip_code	Zip Code	text	ZIP code
+Address1		text	Address line 1
+Address2		text	Address line 2
+Address3		text	Address line 3
+Address4		text	Address line 4
+Address5		text	Address line 5
