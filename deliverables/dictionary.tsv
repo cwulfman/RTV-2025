@@ -1,7 +1,4 @@
 field_name	labels	type	description
-apt_lot_number	Apt or Lot #	text	Apartment/lot
-assistant	If unable to sign, who helped?	text	Helper name/address/phone
-choice_of_party	Choice of Party	text	Party selection
 citizen	Are you a citizen? Yes/No	checkbox group	Export values: Yes, No
 city	City/Town	text	City/town
 dob_day	DOB Day	text	Day of birth
@@ -35,3 +32,8 @@ suffix	Jr, Sr, II, III, IV	checkbox group	Export: Jr, Sr, Second, Third, Fourth
 suffix_2	Jr, Sr, II, III, IV (previous name)	checkbox group	Export: Jr_2, Sr_2, Second, Third, Fourth
 telephone_number	Telephone Number	text	Phone number
 zip_code	Zip Code	text	ZIP code
+Address1		text	Address line 1
+Address2		text	Address line 2
+Address3		text	Address line 3
+Address4		text	Address line 4
+Address5		text	Address line 5
