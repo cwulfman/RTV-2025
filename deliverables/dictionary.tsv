@@ -1,4 +1,7 @@
 field_name	labels	type	description
+male_to_address	SUBMIT YOUR COMPLETED	text	Address to which form should be sent
+mail_in_deadline	MAIL-IN REGISTRATION DEADLINE	text	registration deadline
+must_read	YOU MUST READ	text	pointer to further information
 citizen	Are you a citizen? Yes/No	checkbox group	Export values: Yes, No
 city	City/Town	text	City/town
 dob_day	DOB Day	text	Day of birth
